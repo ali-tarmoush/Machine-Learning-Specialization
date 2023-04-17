@@ -11,7 +11,7 @@
 <details>
   <summary>
     <b>Course 1: </b>
-    <a href="">
+    <a href="https://github.com/ali-tarmoush/Machine-Learning-Specialization/tree/main/Course-1-Supervised-Machine-Learning-Regression-and-Classification">
       <b>Supervised Machine Learning: Regression and Classification</b>
       </a>
   </summary>
@@ -23,7 +23,7 @@
 <details>
   <summary>
     <b>Course 2: </b>
-    <a href="">
+    <a href="https://github.com/ali-tarmoush/Machine-Learning-Specialization/tree/main/Course-2-Advanced-Learning-Algorithms">
       <b>Advanced Learning Algorithms</b>
       </a>
   </summary>
@@ -36,7 +36,7 @@
 <details>
   <summary>
     <b>Course 3: </b>
-    <a href="">
+    <a href="https://github.com/ali-tarmoush/Machine-Learning-Specialization/tree/main/Course-3-Unsupervised-Learning-Recommenders-Reinforcement%20Learning">
       <b>Unsupervised Learning, Recommenders, Reinforcement Learning</b>
       </a>
   </summary>
